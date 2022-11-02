@@ -4,7 +4,18 @@
   "level": [
     "Graduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
